@@ -1,0 +1,18 @@
+{
+  "name": "two",
+  "type": "directory",
+  "children": [
+    {
+      "name": "index.md",
+      "type": "file",
+      "frontmatter": {
+        "title": "Два полюса",
+        "description": "Два начала мира",
+        "date": "2015-01-01T00:00:00.000Z",
+        "color": "#FBAD5633",
+        "icon": "two.svg"
+      },
+      "content": ""
+    }
+  ]
+}

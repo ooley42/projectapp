@@ -1,0 +1,18 @@
+{
+  "name": "three",
+  "type": "directory",
+  "children": [
+    {
+      "name": "index.md",
+      "type": "file",
+      "frontmatter": {
+        "title": "Три периода творчества",
+        "description": "Цикл движения энергии внимания",
+        "date": "2016-02-02T00:00:00.000Z",
+        "icon": "three.svg",
+        "color": "#EBDC6133"
+      },
+      "content": "![](./three.svg)"
+    }
+  ]
+}

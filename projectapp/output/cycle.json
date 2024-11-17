@@ -1,0 +1,18 @@
+{
+  "name": "cycle",
+  "type": "directory",
+  "children": [
+    {
+      "name": "index.md",
+      "type": "file",
+      "frontmatter": {
+        "title": "Creative Cycle",
+        "description": "A Natural Way to Implement Any Ideas",
+        "date": "2022-03-19T00:00:00.000Z",
+        "cover": "cycle.png",
+        "color": "#C67E54"
+      },
+      "content": "The ability to consciously transform the surrounding world is an integral part of being human. Everyone can identify a need, study possibilities, and make even small but reasonable changes to our reality. Creativity begins with the very first attempts to improve something within ourselves or the world. As it unfolds within us, it often becomes the main source of joy and fulfillment in life.\n\nBeing interested in something, studying it attentively, learning, and realizing one’s potential in increasingly complex endeavors is natural for people. However, this process does not always progress at the desired speed. Sometimes there isn't enough time and resources. Often, a person encounters seemingly insurmountable challenges and may spend considerable effort overcoming them. Some may wait a long time for inspiration, while others turn each day into their unique creation. And yet, this is accessible to everyone!"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "root",
+  "type": "root",
+  "directories": [
+    {
+      "name": "cycle",
+      "path": "cycle.json"
+    },
+    {
+      "name": "four",
+      "path": "four.json"
+    },
+    {
+      "name": "six",
+      "path": "six.json"
+    },
+    {
+      "name": "three",
+      "path": "three.json"
+    },
+    {
+      "name": "twelve",
+      "path": "twelve.json"
+    },
+    {
+      "name": "two",
+      "path": "two.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "index.md",
+      "type": "file",
+      "frontmatter": {
+        "title": "Project Approach in Creativity",
+        "description": "Cycle of Self-Motivated Activity",
+        "date": "2017-10-25",
+        "cover": "Project-wheel.png",
+        "youtube": "https://www.youtube.com/watch?v=5aSf6ik05aY"
+      },
+      "content": "For over 6 years, we have explored various aspects of creativity. We studied how others do it: reading books by psychologists and educators, adopting experiences from different labor organization systems. We created ourselves: painting, sewing clothes, crafting furniture. We also helped others create: conducting masterclasses and workshops, organizing a forest creative camp, and enriching festival programs with creativity. Throughout this process, we developed, tested, and refined a new, highly simplified way to break down any creative endeavor into a series of small, clear steps.\n\nThis approach helps to start more easily, continue more confidently, and finish any creative projects more decisively. From embroidery to jewelry, from furniture to entire buildings — the project approach helps not get stuck along the way, maintain the flow state, and not fear the silence that arises when everything started is completed, and nothing new has begun yet."
+    }
+  ]
+}

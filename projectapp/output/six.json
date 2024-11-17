@@ -1,0 +1,126 @@
+{
+  "name": "six",
+  "type": "directory",
+  "children": [
+    {
+      "name": "index.md",
+      "type": "file",
+      "frontmatter": {
+        "title": "Шесть стадий",
+        "icon": "six.svg",
+        "description": "В работе над проектом",
+        "date": "2020-09-01T00:00:00.000Z",
+        "color": "#A65E3A"
+      },
+      "content": ""
+    },
+    {
+      "name": "1.relax",
+      "type": "directory",
+      "children": [
+        {
+          "name": "index.md",
+          "type": "file",
+          "frontmatter": {
+            "title": "Отдых",
+            "description": "Переключение, расслабление и созерцание",
+            "date": "2018-06-01T00:00:00.000Z",
+            "color": "#F08754",
+            "icon": "relax.svg"
+          },
+          "content": "Когда завершил что-то прежнее, а за новое еще не брался, наступает время отвлечься, осмотреться, побыть в некоторой пустоте. Это время дать уму побыть в тишине и с новой перспективы взглянуть как на пройденный путь, так и на перспективы будущего. Это точка остановки внешней деятельности, в которой можно увидеть новый виток творческой спирали.\n\nПереключиться из роли творца к роли созерцателя, насладиться результами прошлых проектов. В это время естественно возникают новые идеи и импульсы к их реализации. Когда возникла ценная идея и есть силы её воплотить – переходим к следующему шагу."
+        }
+      ]
+    },
+    {
+      "name": "2.image",
+      "type": "directory",
+      "children": [
+        {
+          "name": "index.md",
+          "type": "file",
+          "frontmatter": {
+            "title": "Образ",
+            "description": "Фиксация представлений",
+            "date": "2018-05-01T00:00:00.000Z",
+            "color": "#EBEA76",
+            "icon": "image.svg"
+          },
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": "3.plan",
+      "type": "directory",
+      "children": [
+        {
+          "name": "index.md",
+          "type": "file",
+          "frontmatter": {
+            "title": "План",
+            "description": "Проработка и приготовления",
+            "date": "2018-04-01T00:00:00.000Z",
+            "color": "#9DCE76",
+            "icon": "plan.svg"
+          },
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": "4.work",
+      "type": "directory",
+      "children": [
+        {
+          "name": "index.md",
+          "type": "file",
+          "frontmatter": {
+            "title": "Работа",
+            "description": "Прямое целенаправленное действие",
+            "date": "2018-03-01T00:00:00.000Z",
+            "color": "#9ECCED",
+            "icon": "work.svg"
+          },
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": "5.details",
+      "type": "directory",
+      "children": [
+        {
+          "name": "index.md",
+          "type": "file",
+          "frontmatter": {
+            "title": "Детали",
+            "description": "Осмысление прогресса и переосмысление процессов",
+            "date": "2018-02-10T00:00:00.000Z",
+            "color": "#A19FCE",
+            "icon": "details.svg"
+          },
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": "6.summary",
+      "type": "directory",
+      "children": [
+        {
+          "name": "index.md",
+          "type": "file",
+          "frontmatter": {
+            "title": "Итоги",
+            "description": "Завершение и презентация творческих результатов",
+            "date": "2018-02-01T00:00:00.000Z",
+            "color": "#A19FCE",
+            "icon": "summary.svg"
+          },
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

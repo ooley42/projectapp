@@ -1,0 +1,86 @@
+{
+	"name": "four",
+	"type": "directory",
+	"children": [
+		{
+			"name": "index.md",
+			"type": "file",
+			"frontmatter": {
+				"title": "Четыре фазы",
+				"description": "Стороны света творческого компаса",
+				"date": "2017-01-02T00:00:00.000Z",
+				"icon": "four.svg",
+				"color": "#EBDC6133"
+			},
+			"content": "Dividing the project implementation cycle into 4 phases is most suitable for short endeavors and rapid iterations. This is relevant in rapidly changing conditions or when the results of activities take on greater priority than the process of achieving them.\n\nLike the seasons, the phases of inventing, elaborating, implementing and comprehending a creative project change. If a person starts not from his own internal image of an idea, but directly from external conditions, then this circle rotates 45 degrees clockwise and has become known since 1995 as the [OODA cycle](https://ru.wikipedia.org/wiki/OODA_Cycle) .\n\n## OODA Loop\n\nThe OODA Loop (“Observe, Orient, Decide, Act”) is a concept developed by John Boyd in 1995, also known as the Boyd Loop. OODA is a cybernetic self-reproducing and self-regulating cycle, which has 4 processes in its structure and involves repeated repetition of the action loop: the feedback principle is implemented. According to Boyd, any processes corresponding to reality operate in a continuous cycle, constantly interact with the environment and take into account its changes.\n\nThe ideas of D. Boyd were formed on the basis of the works of such famous researchers as: Jean Piaget, Ludwig von Bertalanffy, Thomas Kuhn, Michael Polanyi, Norbert Wiener, Gregory Bateson.\n\n### OODA concept\n\nD. Boyd developed his concept for the US Army. In this regard, OODA initially set as its task the explanation of the reasons for defeats and victories between opponents. According to D. Boyd's concept, both sides entering into a military conflict act and make decisions within the framework of their OODA loop.\n\nThere are two main ways to achieve victory over the enemy: make your action cycles faster or improve the quality of the decisions you make. The first option will allow you to act proactively and force the enemy to react to actions (a faster action loop than the enemy). The second way is to make decisions that are better suited to the given situation, than the enemy’s decisions or to make the enemy’s decisions worse. In many cases, the enemy may be absent, in which case he is replaced by the external environment.\n\n### 4 elements of OODA\n\n- **Observation** (English Observation) - the process of transforming changes in the external and internal (elements feedback) environment in the form of data signals used in the future. Information can be collected from external and internal sources. The quality and speed of information collection determine the effectiveness of decisions made.\n- **Orientation** (English: Orientation) - the process of evaluating data in accordance with the context, giving meaning to the data. The speed and quality of this stage depend on how many plans have already been formed. If there are few or none, then time will be spent on their development. Orientation is the most difficult stage in the entire cycle. This stage consists of two substages:\n - A. **Destruction** (English: Destruction). Destruction is the process of fragmentation into small elementary parts that are easier to understand.\n - B. **Creation** (English Creation). If the “destruction” substage implies the deconstruction of a complex issue, then the “creation” substage aims, through processing simplified information, to create a plan and alternatives for solving the problem.\n- **Decision** (English: Decision) - a stage that involves a choice alternatives and plans based on what was developed during the orientation phase. Selection criteria may be different and depend on the goals of a particular system;\n- **Action** (English Action) - the process of influencing the environment. The specific plan developed is being implemented. As a result of this action, the external environment changes, which again affects the entire system. The principle of feedback is implemented.\n\n### The OODA cycle in creativity\n\nWhen applied to creative projects, we slightly shift the emphasis from observing the external situation to giving meaning to existing data. It is not so important where to start this simple countdown, but in this way we also We emphasize the importance of observing the final results of the creative act in a real environment. We evaluate achievements, present them to others and together celebrate the completion of the next cycle. Creativity is the conscious improvement of reality, and this means that the next cycle begins precisely when both ingredients are present - an understanding of reality and an idea of ​​how it can be improved through one’s own efforts.\n\nWhereas the OODA approach is focused on practical actions under given criteria success and is determined by external circumstances, the cycle of Fantasy, Development, Realization and Understanding is guided by the human sense of beauty from within. This does not in any way negate inclusion in reality and awareness of the context of the creative act, but it expands the boundaries of the possible due to greater freedom in determining the direction of application of efforts. "
+		},
+		{
+			"name": "1.fantasy",
+			"type": "directory",
+			"children": [
+				{
+					"name": "index.md",
+					"type": "file",
+					"frontmatter": {
+						"title": "Fanrasy",
+						"description": "The phase of inventing and recording ideas",
+						"date": "2022-02-04T00:00:00.000Z",
+						"color": "#EBDC61"
+					},
+					"content": ""
+				}
+			]
+		},
+		{
+			"name": "2.development",
+			"type": "directory",
+			"children": [
+				{
+					"name": "index.md",
+					"type": "file",
+					"frontmatter": {
+						"title": "Development",
+						"description": "Phase of studying and building a work system",
+						"date": "2022-01-30T00:00:00.000Z",
+						"color": "#AFD796"
+					},
+					"content": ""
+				}
+			]
+		},
+		{
+			"name": "3.realization",
+			"type": "directory",
+			"children": [
+				{
+					"name": "index.md",
+					"type": "file",
+					"frontmatter": {
+						"title": "Realization",
+						"description": "Practical productive activity phase",
+						"date": "2022-01-20T00:00:00.000Z",
+						"color": "#8E91C7"
+					},
+					"content": ""
+				}
+			]
+		},
+		{
+			"name": "4.comprehension",
+			"type": "directory",
+			"children": [
+				{
+					"name": "index.md",
+					"type": "file",
+					"frontmatter": {
+						"title": "Comprehension",
+						"description": "Phase of completing the project and applying the results obtained",
+						"date": "2022-01-10T00:00:00.000Z",
+						"color": "#F06FAA"
+					},
+					"content": ""
+				}
+			]
+		}
+	]
+}
