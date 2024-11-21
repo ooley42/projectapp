@@ -3,11 +3,10 @@
 	"type": "directory",
 	"children": [
 		{
-			"name": "index.md",
 			"type": "file",
 			"frontmatter": {
-				"title": "Четыре фазы",
-				"description": "Стороны света творческого компаса",
+				"title": "Four phases",
+				"description": "Cardinal directions on a creative compass",
 				"date": "2017-01-02T00:00:00.000Z",
 				"icon": "four.svg",
 				"color": "#EBDC6133"
@@ -19,10 +18,9 @@
 			"type": "directory",
 			"children": [
 				{
-					"name": "index.md",
 					"type": "file",
 					"frontmatter": {
-						"title": "Fanrasy",
+						"title": "Fantasy",
 						"description": "The phase of inventing and recording ideas",
 						"date": "2022-02-04T00:00:00.000Z",
 						"color": "#EBDC61"
@@ -36,7 +34,6 @@
 			"type": "directory",
 			"children": [
 				{
-					"name": "index.md",
 					"type": "file",
 					"frontmatter": {
 						"title": "Development",
@@ -53,7 +50,6 @@
 			"type": "directory",
 			"children": [
 				{
-					"name": "index.md",
 					"type": "file",
 					"frontmatter": {
 						"title": "Realization",
@@ -70,7 +66,6 @@
 			"type": "directory",
 			"children": [
 				{
-					"name": "index.md",
 					"type": "file",
 					"frontmatter": {
 						"title": "Comprehension",
